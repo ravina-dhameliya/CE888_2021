@@ -16,3 +16,23 @@ type_fire =["Fire","No_Fire"]
 Train and Test Images
 
 ![image](https://user-images.githubusercontent.com/77781909/116537580-53f98680-a8de-11eb-8f43-747dd65b2889.png)
+
+Building the Model
+
+![image](https://user-images.githubusercontent.com/77781909/116537690-72f81880-a8de-11eb-8012-eb29cf337e60.png)
+
+
+Evaluating the Model
+Loss and Accuracy
+
+![image](https://user-images.githubusercontent.com/77781909/116537717-7b505380-a8de-11eb-90a3-7082514132ea.png)
+
+Train and Validation Accuracy
+
+![image](https://user-images.githubusercontent.com/77781909/116537734-82776180-a8de-11eb-9d44-0c3c093dc677.png)
+
+
+Confusion Matrix
+
+![image](https://user-images.githubusercontent.com/77781909/116537757-899e6f80-a8de-11eb-950b-76fc580fb4e6.png)
+
